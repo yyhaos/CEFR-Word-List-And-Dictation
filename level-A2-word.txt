@@ -1,0 +1,983 @@
+Base Word
+as
+before
+eighth
+eighty
+fifth
+fifty
+forty
+fourth
+hundred
+if
+million
+ninety
+ninth
+seventy
+so
+seventh
+sixth
+sixty
+that
+zero
+third
+thirty
+thousand
+when
+where
+advertisement
+beginner
+cleaner
+camping
+baby
+bear
+chicken
+album
+cartoon
+channel
+clown
+art
+accident
+back
+brain
+blood
+catch
+belt
+boot
+cap
+capital letter
+card
+advice
+chat
+ask
+agree
+centimetre
+circle
+black
+blue
+brown
+blackboard
+chemistry
+barbecue
+bean
+bottle
+bowl
+burger
+can
+cereal
+chilli
+bake
+apartment
+armchair
+blanket
+board
+bookcase
+bookshelf
+castle
+ceiling
+centre
+carpet
+cent
+cheque
+borrow
+air
+autumn
+bring
+brush
+climb
+bit
+believe
+bother
+capital
+aunt
+boyfriend
+board game
+bookshop
+badminton
+chess
+baseball
+aeroplane
+airport
+bicycle
+bus station
+bus stop
+car park
+coach
+adventure
+boss
+businessman
+businesswoman
+build
+cigarette
+alcohol
+champagne
+cathedral
+church
+climbing
+artist
+chemist
+actor
+adjective
+adverb
+alarm clock
+ambulance
+balloon
+battery
+bill
+bridge
+calendar
+century
+chef
+classmate
+biology
+building
+arrive
+awesome
+available
+advanced
+boiled
+careful
+amazing
+attractive
+actually
+badly
+certainly
+clearly
+cloudy
+all right
+alright
+anyway
+bright
+brilliant
+broken
+across
+anywhere
+around
+away
+aged
+blonde
+afraid
+angry
+busy
+beginning
+carefully
+alone
+afterwards
+ago
+all
+almost
+already
+anymore
+exam
+dancer
+cooker
+customer
+competition
+electricity
+dinosaur
+duck
+elephant
+comic
+concert
+dance
+drum
+cold
+do
+earring
+document
+envelope
+directions
+describe
+discuss
+explain
+degree
+cream
+diploma
+dish
+cola
+curry
+dessert
+cupboard
+curtain
+drawer
+entrance
+exit
+euro
+countryside
+desert
+collect
+complete
+copy
+decide
+delay
+end
+comb
+cousin
+department store
+cricket
+driving licence
+day
+cooking
+drawing
+dentist
+comparative
+colleague
+cook
+corner
+diary
+digital camera
+disco
+discount
+engine
+engineer
+cycling
+east
+college
+cost
+dry
+comfortable
+digital
+electric
+especially
+dangerous
+dirty
+deep
+excellent
+else
+crazy
+Dr
+crowded
+dressed
+daily
+easily
+department
+correct
+early
+empty
+enough
+even
+ever
+everywhere
+crowd
+guy
+granddad
+grandma
+grandpa
+granny
+footballer
+farmer
+heating
+fishing
+identification
+information
+hip-hop
+finger
+headache
+heart
+health
+hurt
+glove
+handbag
+file
+form
+ID card
+grammar
+ID
+give
+gram
+green
+grey
+history
+fail
+fork
+fridge
+grape
+fast food
+garlic
+ham
+honey
+floor
+garage
+gate
+hall
+furniture
+hill
+geography
+gold
+ice
+fog
+forest
+grow
+help
+fall
+fill
+hurry
+improve
+hate
+girlfriend
+grandchild
+granddaughter
+grandfather
+grandmother
+grandparent
+grandson
+goal
+hobby
+golf
+hockey
+flight
+guidebook
+helicopter
+guide
+headteacher
+fact
+fan
+first name
+gift
+housewife
+happen
+forget
+include
+fantastic
+golden
+fried
+grilled
+good-looking
+healthy
+foggy
+how
+happy
+hard
+heavy
+high
+horrible
+indoor
+in
+glad
+immediately
+foreign
+friendly
+half-price
+maths
+kid
+minute
+MP3 player
+manager
+meeting
+invitation
+insect
+lion
+monkey
+mouse
+instrument
+keyboard
+magazine
+jazz
+neck
+medicine
+jumper
+necklace
+jewellery
+kit
+licence
+list
+notebook
+notice
+offer
+mail
+news
+mean
+kilo
+kilogram
+kilometre
+litre
+metre
+left
+main course
+menu
+mug
+mushroom
+omelette
+jam
+lemonade
+mineral water
+lemon
+lunchtime
+mango
+melon
+oil
+lamp
+library
+lift
+light
+mirror
+office
+island
+lake
+kiss
+join
+leave
+lend
+lose
+miss
+make-up
+king
+member
+neighbour
+market
+match
+laptop
+machine
+model
+IT
+journey
+map
+motorbike
+motorway
+luggage
+mosque
+mechanic
+kite
+mistake
+moment
+noun
+nurse
+leather
+luck
+magic
+midday
+midnight
+noon
+north
+mad
+national
+interested
+married
+lovely
+lazy
+long
+maybe
+large
+left-hand
+loud
+low
+old
+less
+most
+international
+normal
+missing
+nearly
+lucky
+noisy
+latest
+lost
+modern
+next
+instead
+Ms
+place
+painter
+player
+poster
+printer
+passenger
+painting
+rabbit
+rat
+photograph
+piano
+play
+programme
+photography
+pop
+rap
+rock
+opera
+pain
+pocket
+raincoat
+ring
+postcard
+rubber
+post
+pray
+put
+police
+pair
+orange
+pink
+purple
+red
+right
+project
+pupil
+physics
+pasta
+onion
+pear
+roast
+pillow
+post office
+roof
+rent
+practice
+open
+repair
+return
+paint
+prepare
+pull
+perfume
+prefer
+playground
+puzzle
+quiz
+PC
+program
+path
+petrol station
+platform
+railway
+roundabout
+petrol
+photographer
+plastic
+receptionist
+passport
+penfriend
+pilot
+policeman
+police officer
+police station
+policewoman
+price
+prize
+purse
+quarter
+queen
+reason
+plural
+receive
+pub
+pleased
+quite
+perfect
+pleasant
+right-hand
+over
+polite
+online
+probably
+quickly
+popular
+real
+perhaps
+pence
+telephone
+sweater
+teenager
+runner
+scooter
+spelling
+running
+sailing
+shopping
+sightseeing
+snake
+show
+song
+stage
+star
+stomach
+temperature
+stomach ache
+scarf
+sock
+suit
+swimming costume
+shorts
+sunglasses
+sign
+stamp
+story
+thank
+spell
+size
+square
+schoolchild
+school
+science
+slice
+snack
+soft drink
+spoon
+sweet
+salad
+sauce
+sausage
+steak
+supper
+sweets
+seat
+shelf
+sink
+sitting room
+sofa
+stairs
+storm
+silver
+sky
+sit
+stand
+spend
+share
+shut
+shampoo
+skateboard
+rugby
+table tennis
+site
+software
+ship
+suitcase
+secretary
+ruler
+singer
+singing
+skateboarding
+skating
+skiing
+snowboarding
+surfing
+swimming
+superlative
+salesperson
+screen
+shop assistant
+side
+skate
+sports centre
+stadium
+surname
+textbook
+text message
+theatre
+south
+sound
+scissors
+singular
+swim
+teach
+steal
+sure
+surprised
+sunny
+sick
+short
+soft
+special
+terrible
+thin
+team
+staff
+slowly
+simple
+strange
+somewhere
+soon
+trainer
+winner
+worker
+walking
+tourist
+visitor
+tune
+violin
+toe
+toothache
+tie
+umbrella
+tights
+verb
+vocabulary
+yellow
+timetable
+year
+toast
+yogurt
+towel
+washing machine
+wallet
+thunderstorm
+view
+wood
+walk
+washing-up
+tidy
+throw
+uncle
+toy
+video game
+volleyball
+web page
+video
+traffic light
+tram
+tyre
+way
+traffic
+tour
+toothbrush
+tour guide
+uniform
+weekday
+wheel
+tonight
+west
+wool
+white
+war
+unfortunately
+unhappy
+worried
+useful
+wonderful
+thirsty
+windy
+whole
+wide
+wet
+well-known
+unusual
+weekly
+usually
+various
+wooden
+twice
+at
+another
+beside
+anybody
+anyone
+could
+everything
+congratulations
+during
+except
+everybody
+everyone
+hey
+for
+including
+hers
+herself
+himself
+next to
+nothing
+might
+must
+minus
+myself
+nobody
+no one
+pardon
+per
+ours
+ourselves
+shall
+several
+should
+somebody
+someone
+theirs
+themselves
+wow
+yeah
+without
+yours
+yourself
+a bit
+the back
+hot chocolate
+a sales/shop assistant
+Take care!
+your big brother/sister
+classical music
+be born
+break your arm/leg etc.
+a broken arm/leg etc.
+a change of clothes
+call back (sb) or call (sb) back
+How/What about ...?
+I'm afraid...
+all the best
+that's all right
+that's alright
+and so on
+not (too) bad
+be bad for sb/sth
+by the way
+bring back sth or bring sth back
+I/you/he etc. had better do sth
+belong to sb
+be able to do sth
+all sorts of sth
+all the time
+all over somewhere
+any more
+as well as
+as ... as
+as much/quickly/soon etc. as possible
+as usual
+have/has been to
+become available/rich/a writer etc.
+best wishes
+enjoy yourself
+the east
+of course not
+Oh dear!
+details
+don't you?/do you?/doesn't she?/does she? etc.
+Do you mind ...?
+the dishes
+the country
+come back
+come in
+be crazy about sb/sth
+these days
+one day
+each other
+Guess what?
+give sb a call/ring
+give a party
+have a rest/shower/walk etc.
+on foot
+have fun/a nice time/a problem etc.
+God
+Help!
+How about...?
+How do you do?
+if not
+if you like
+a few
+quite a few
+the front
+in front of sth/sb
+in front of sb/sth
+find out (sth) or find (sth) out
+give back sth or give sth back
+go in
+go running/swimming etc.
+grow up
+for sale
+get back
+get off (sth)
+get on (sth)
+fill in/out sth or fill sth in/out
+first of all
+follow a road/path etc.
+the future
+get married
+be going to do/be sth
+be going to do sth
+go to the toilet
+happy to do sth
+have (got) to do sth
+here you are/here it is etc.
+(by) herself
+(by) himself
+sb will kill sb
+would love sth/to do sth
+would love to (do sth)
+I mean
+make sure
+all kinds of sth
+the north
+be made from/(out) of sth
+don't need to do sth/needn't do sth
+No problem.
+instructions
+let sb know
+let's
+let sb know (sth)
+What is sb/sth like?
+love/(with) love from/all my love/lots of love
+pleased to meet you
+I don't mind
+never mind
+no thanks
+Oh no!
+not too
+notes
+a little bit
+too much/so much
+not bad
+the moon
+lie down
+old friend
+on sale
+the net
+look after sb/sth
+keep sth in/on etc.
+look nice/strange etc.
+the matter
+the middle
+at the moment
+(the) most attractive/important/popular etc.
+(by) myself
+or not
+just now
+would prefer
+give sb a ring
+Really?
+a pity
+pale blue/green/yellow etc.
+quite a few/a lot
+pick up sb/sth or pick sb/sth up
+put on sth or put sth on
+(by) ourselves
+part of sth
+the past
+plan to do sth
+remember to do sth
+the rest
+a sheet of paper/glass etc.
+the south
+take an exam
+have (got) a temperature
+shall I/we...?
+or something (like that)
+such a(n)
+such as
+I suppose
+tell sb to do sth
+a dance/language/riding etc. school
+make sure (that)
+a shame
+take off
+spare time
+sell for/at sth
+as soon as possible
+sound good/interesting/strange etc.
+studies
+(by) themselves
+can't wait
+the Web
+the west
+you're welcome
+What about ...?
+why don't you?/ why not do sth?
+would love sth
+toilets
+wash (sth) up or wash up (sth)
+the underground
+try on sth or try sth on
+turn off sth or turn sth off
+turn on sth or turn sth on
+from ... to ...
+up the road/street etc.
+a variety of sth/sb
+without sb
+your world
+be wrong
+(by) yourself

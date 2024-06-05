@@ -1,0 +1,488 @@
+Base Word
+clothes
+and
+because
+but
+eight
+eighteen
+eleven
+fifteen
+five
+four
+fourteen
+nine
+nineteen
+or
+one
+seven
+seventeen
+six
+sixteen
+ten
+thirteen
+three
+to
+twelve
+twenty
+two
+CD player
+animal
+bird
+cat
+book
+camera
+arm
+body
+coat
+answer
+class
+biscuit
+café
+bread
+butter
+apple
+banana
+breakfast
+cake
+cheese
+chocolate
+bath
+bathroom
+bedroom
+chair
+bed
+bank
+beach
+clean
+choose
+adult
+beard
+boy
+birthday
+brother
+bag
+ball
+box
+business
+basketball
+CD
+boat
+bus
+car
+beer
+child
+city
+classroom
+clock
+afternoon
+April
+August
+begin
+buy
+bored
+better
+beautiful
+boring
+bad
+best
+above
+below
+be
+cheap
+about
+again
+also
+always
+a.m.
+dad
+computer
+conversation
+cow
+dog
+ear
+eye
+dress
+cross
+colour
+course
+dictionary
+cup
+coffee
+dinner
+drink
+desk
+dining room
+door
+dollar
+come
+daughter
+doll
+DVD
+driver
+doctor
+country
+credit card
+email
+example
+dancing
+December
+evening
+die
+eat
+excited
+different
+exciting
+dear
+dark
+expensive
+easy
+fish
+horse
+film
+guitar
+face
+foot
+hand
+head
+have
+hat
+glasses
+glass
+homework
+food
+fruit
+ice cream
+farm
+flat
+garden
+home
+flower
+grass
+find
+girl
+hair
+fun
+father
+friend
+husband
+football
+game
+holiday
+factory
+hotel
+hour
+February
+Friday
+hospital
+great
+important
+famous
+hungry
+funny
+here
+family
+fast
+first
+mum
+movie
+newspaper
+music
+leg
+mouth
+nose
+jacket
+jeans
+language
+letter
+message
+name
+number
+invite
+know
+lesson
+knife
+meal
+meat
+milk
+juice
+lunch
+key
+kitchen
+living room
+museum
+money
+man
+mother
+job
+nationality
+kind
+mobile
+mobile phone
+month
+January
+July
+June
+March
+May
+Monday
+morning
+night
+noise
+November
+October
+OK
+the Internet
+interesting
+no
+new
+nice
+late
+never
+not
+often
+Miss
+Mr
+Mrs
+reading
+pet
+pig
+page
+photo
+picture
+radio
+pen
+pencil
+question
+read
+picnic
+plate
+rice
+pizza
+potato
+room
+park
+river
+rain
+practise
+parent
+party
+plane
+road
+person
+problem
+restaurant
+phone
+people
+remember
+really
+possible
+quick
+ready
+p.m.
+television
+smoking
+sheep
+shirt
+shoe
+skirt
+sentence
+say
+see
+speak
+tell
+student
+sandwich
+salt
+soup
+sugar
+shower
+snow
+sea
+summer
+smoke
+start
+sister
+son
+sport
+tennis
+street
+taxi
+teacher
+shop
+supermarket
+swimming pool
+thing
+Saturday
+September
+Sunday
+sing
+sorry
+small
+sun
+slim
+sad
+safe
+same
+tall
+sometimes
+then
+there
+writing
+zoo
+tooth
+T-shirt
+watch
+trousers
+wear
+word
+university
+vegetable
+tomato
+toilet
+wall
+window
+tree
+village
+weather
+town
+wind
+winter
+world
+wash
+visit
+woman
+want
+think
+wife
+website
+train
+wine
+waiter
+ticket
+waitress
+week
+weekend
+today
+tomorrow
+Thursday
+Tuesday
+TV
+Wednesday
+understand
+yes
+tired
+well
+very
+young
+wrong
+too
+up
+why
+yesterday
+bye
+a
+an
+both
+cannot
+anything
+every
+each
+goodbye
+hi
+good afternoon
+good evening
+good morning
+good night
+hello
+from
+her
+his
+he
+him
+I
+oh
+many
+into
+of
+its
+my
+it
+me
+other
+our
+some
+something
+the
+their
+these
+than
+she
+them
+they
+under
+with
+those
+what
+your
+us
+we
+who
+you
+as well
+there is/there are/there was etc.
+I am Spanish/a teacher etc.
+be called sth
+for example
+Excuse me
+of course
+do the cleaning/cooking etc.
+what does sb do?
+come from swh/sth
+good for you
+(that's) fine
+Don't forget...
+Happy Birthday/New Year etc.
+How are you?
+get (sb) up
+go out
+go shopping
+get here/there/home/to work etc.
+get a bus/train/taxi etc.
+half past one/two/three etc.
+(Good) morning
+in the morning
+need to do sth
+see you later
+Would you like...?
+how many
+a lot/lots
+a lot
+very much
+live in/at etc.
+would like sth/to do sth
+last week/year/Monday etc.
+last night
+more beautiful/difficult/easily etc.
+next week/year/Monday etc.
+one/two/three etc. o'clock
+put sth down/in/on etc.
+Road
+the radio
+Yes please
+it rains/it is raining
+the present
+take a picture/photo(graph)
+Street
+see you
+see you later/soon/tomorrow etc.
+see you soon
+the same
+There is/are/was etc.
+things
+Well done!
+Don't worry (about sth)
+Would you like ...?
+too small/hard/much etc.
+wake (sb) up or wake up (sb)
+be ... years old
+not very good/tall/happy etc.
