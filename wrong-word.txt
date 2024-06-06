@@ -125,8 +125,6 @@ hockey
 fried
 grilled
 foggy
-maths
-MP3 player
 jazz
 necklace
 jewellery
@@ -185,3 +183,303 @@ perhaps
 pence
 scooter 小型摩托车
 sailing
+sightseeing
+stomach
+scarf
+sock 短袜
+suit
+swimming costume
+stamp
+snack 点心
+snake 蛇
+sauce 调味汁
+sausage
+supper 晚餐
+sink
+silver
+skateboard
+rugby 橄榄球
+secretary
+skateboarding
+skating
+skiing
+snowboarding
+surfing
+superlative 最高级
+salesperson
+screen
+assistant
+stadium 体育场
+surname 姓
+theatre
+scissors
+steal
+thin
+violin
+toe
+toothache
+tie
+tights
+verb
+toast
+yogurt
+towel
+thunderstorm
+wood
+volleyball
+tire 轮胎、使疲劳
+wheel 轮子
+wool 羊毛
+unfortunately
+thirsty
+whole
+weekly
+various
+congratulations
+pardon
+several
+yeah
+
+B1:
+unless
+until
+whether
+assistant
+babysitter
+central heating
+celebration
+achievement
+championship
+ant
+bat
+calf
+camel
+ad
+advert
+article
+biography
+chat show
+circus
+ankle
+bottom
+cheek
+chin
+breath
+aspirin
+backache
+bracelet
+brochure
+apology
+apologise
+announce
+advise
+canteen
+beef
+broccoli
+chewing gum
+cabbage
+balcony
+basin
+bin
+chest of drawers
+air conditioning
+bank account
+bay
+breeze
+cave
+climate
+blow
+achieve
+bury
+cancel
+approach
+babysit
+annoy
+anniversary
+ceremony
+celebrate
+champion
+athletics
+CD-ROM
+brake
+cab
+check-in (desk)
+check-in (counter)
+baggage
+agency
+bacon
+blogger
+buyer
+accommodation
+attention
+celebrity
+announcement
+calculator
+accountant
+antique
+athlete
+blog
+canal
+behaviour
+benefit
+air force
+angel
+barman
+annoyed
+annoying
+approximately
+angrily
+anxious
+brief
+brand new
+broad
+calm
+abroad
+annual
+accurately
+briefly
+bald
+along
+altogether
+criminal
+employer
+description
+explanation
+decision
+election
+expedition
+cyclist
+excitement
+competitor
+enquiry
+delivery
+dolphin
+disc
+comedy
+contents
+cough
+diet
+elbow
+earache
+comma
+comment
+consonant 辅音
+complaint
+convince
+dozen 打，十二个
+curriculum 课程
+courgette 小胡瓜
+cucumber 黄瓜
+cottage 小屋
+cushion 垫子
+duvet 羽绒被
+district 区
+experiment
+effort
+dig
+divorce
+extreme
+dot 点
+cruise 巡航
+customs 海关
+conclusion
+CV 简历 curriculum vitae
+definite article 定冠词
+deposit 押金，沉淀物
+disc jockey
+DJ
+edge
+embassy 大使馆
+essay
+event
+cotton 棉
+economics
+energy
+cod 鳕鱼，玩笑，欺骗
+custom 风俗，习惯
+effect
+compete 竞争
+declare
+dial
+damaged
+confused
+disappointed
+embarrassed
+exhausted
+experienced
+divorced
+colourful
+electronic
+disgusting
+confusing
+embarrassing
+extremely
+extraordinary
+cruel
+difficult
+essential
+complicated
+convenient
+efficient
+correctly
+definitely
+duty-free
+eastern 东方的
+imagination
+giraffe 长颈鹿
+fur 毛皮，毛皮衣服
+festival
+flute 长笛
+flu 流感
+folk 名族，人们，亲属
+graphics
+heart attack
+full stop
+guess
+identity card
+greet
+gym
+frying pan
+grill
+flour
+flavour
+fire station
+hut 小屋
+flood
+habit
+hide
+imagine
+fold
+grab
+favourite
+ice hockey
+ferry
+harbour
+hairdresser 理发师 barber
+hairdryer
+guitarist
+fare
+favour
+film-maker
+fountain
+handkerchief
+herb
+hostel
+indefinite article
+fuel
+hitchhike
+hire
+ghost
+frightened
+grateful
+frightening
+fully
+heavily
+honestly
+icy 结冰的
+FALSE
+gentle
+indoors
+ingredient
+first-floor
+humid
