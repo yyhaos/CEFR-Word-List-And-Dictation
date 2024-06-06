@@ -30,30 +30,30 @@ hundred
 million
 ninety
 ninth
-so
 seventh
 sixth
 chicken
 album
+elbow 肘
 clown
 boot
 capital letter
-centimetre
+centimeter
 chemistry
 barbecue
 bean
 burger
-cereal
+cereal 谷物
 chilli
 bake
 apartment
 castle
-centre
 cent
 cheque
 autumn
 bring
 climb
+climbing
 believe
 bother
 aunt
@@ -65,18 +65,14 @@ build
 cigarette
 alcohol
 champagne
-cathedral
-climbing
 adjective
 alarm clock
 ambulance
-balloon
 calendar
 century
 chef
 awesome
 boiled
-all right
 alright
 aged
 blonde
@@ -85,34 +81,32 @@ customer
 dinosaur
 comic
 earring
-envelope
+envelop
 diploma
-curry 咖喱
 dessert
 cupboard 橱柜
 exit
 euro 欧元
 desert
 collect
-comb
+comb 梳子
 cousin
-cricket
 drawing
 colleague
+college
+village
+collect
 corner
 digital camera
 disco
-granddad
-granny
 hip-hop
 glove 手套
 handbag
-ID card
-ID
 gram
 green
 grey
 fridge 冰箱
+refrigerator 
 grape 葡萄
 honey
 garage 车库
@@ -131,20 +125,18 @@ jewellery
 kit 成套工具
 licence
 liter 升
-main course
 mug 杯子，马克杯
 mushroom
-omelette 煎蛋
-jam 果酱
-lemonade 柠檬汁
-mineral water 矿泉水
-mango
+jam 果酱，拥挤
 melon
 oil
 make-up
-IT
 luggage
-mosque 清真寺
+baggage
+maggot 蛆
+engage 从事
+magnificent 辉煌的
+Magnetic 磁铁的
 mechanic 技工，机器学，修理工；机器的、机动的
 kite
 noun 名词
@@ -152,29 +144,30 @@ mad
 married
 lovely
 left-hand
+noise
 noisy
+annoy
+annoying
+annoyed
 modern
-Ms
 passenger
 rat
 photography
 ring
 rubber 橡胶，橡皮擦
 pupil 学生
-pasta 意大利面
 pear
-post office
 perfume 香气，香水
 quiz
-PC
 petrol
 receptionist 接待员
 passport
 pilot
 prize
+price
+praise
 quarter
 queen
-plural 复数的
 pub
 pleased
 pleasant
@@ -182,7 +175,6 @@ right-hand
 perhaps
 pence
 scooter 小型摩托车
-sailing
 sightseeing
 stomach
 scarf
@@ -198,7 +190,6 @@ supper 晚餐
 sink
 silver
 skateboard
-rugby 橄榄球
 secretary
 skateboarding
 skating
@@ -209,9 +200,8 @@ superlative 最高级
 salesperson
 screen
 assistant
-stadium 体育场
 surname 姓
-theatre
+theater
 scissors
 steal
 thin
@@ -246,29 +236,23 @@ until
 whether
 assistant
 babysitter
-central heating
-celebration
+central
 achievement
 championship
 ant
 bat
-calf
 camel
 ad
 advert
 article
 biography
-chat show
-circus
 ankle
 bottom
 cheek
-chin
+chin 下巴
 breath
-aspirin
 backache
-bracelet
-brochure
+stomachache
 apology
 apologise
 announce
@@ -276,68 +260,54 @@ advise
 canteen
 beef
 broccoli
-chewing gum
 cabbage
-balcony
-basin
-bin
-chest of drawers
-air conditioning
-bank account
-bay
-breeze
 cave
+bin
+bay 海湾
+breeze 微风
 climate
-blow
+blow 吹
 achieve
 bury
 cancel
 approach
 babysit
-annoy
 anniversary
 ceremony
 celebrate
+celebration 庆祝活动
+celebrity 名人
 champion
+athlete
+athletic
 athletics
-CD-ROM
-brake
-cab
-check-in (desk)
-check-in (counter)
-baggage
+brake 刹车
+cab 出租车，驾驶室，指挥塔；剽窃
 agency
-bacon
-blogger
+blogger 博客作者 blog
+blog
 buyer
 accommodation
 attention
-celebrity
 announcement
 calculator
 accountant
-antique
-athlete
-blog
-canal
-behaviour
+antique 古董
+canal 运河，灌溉
+behavior
 benefit
-air force
 angel
-barman
-annoyed
-annoying
+barman 酒保
 approximately
 angrily
 anxious
 brief
-brand new
+briefly
 broad
 calm
 abroad
 annual
 accurately
-briefly
 bald
 along
 altogether
@@ -347,11 +317,12 @@ description
 explanation
 decision
 election
-expedition
-cyclist
+expedition 远征，探险，探险队
+exhibition
+cyclist 骑自行车的人
 excitement
 competitor
-enquiry
+enquiry 询问
 delivery
 dolphin
 disc
@@ -359,20 +330,17 @@ comedy
 contents
 cough
 diet
-elbow
 earache
-comma
+comma 逗号
 comment
-consonant 辅音
 complaint
 convince
+convincing
+convenience
+convenient
 dozen 打，十二个
 curriculum 课程
-courgette 小胡瓜
-cucumber 黄瓜
-cottage 小屋
 cushion 垫子
-duvet 羽绒被
 district 区
 experiment
 effort
@@ -380,22 +348,16 @@ dig
 divorce
 extreme
 dot 点
-cruise 巡航
 customs 海关
 conclusion
 CV 简历 curriculum vitae
-definite article 定冠词
 deposit 押金，沉淀物
-disc jockey
-DJ
 edge
-embassy 大使馆
-essay
+essay 散文，论文
 event
-cotton 棉
+economy
 economics
 energy
-cod 鳕鱼，玩笑，欺骗
 custom 风俗，习惯
 effect
 compete 竞争
@@ -408,7 +370,6 @@ embarrassed
 exhausted
 experienced
 divorced
-colourful
 electronic
 disgusting
 confusing
@@ -419,67 +380,283 @@ cruel
 difficult
 essential
 complicated
-convenient
 efficient
 correctly
 definitely
 duty-free
 eastern 东方的
 imagination
-giraffe 长颈鹿
 fur 毛皮，毛皮衣服
 festival
-flute 长笛
 flu 流感
 folk 名族，人们，亲属
 graphics
-heart attack
-full stop
 guess
-identity card
 greet
 gym
-frying pan
-grill
-flour
-flavour
-fire station
-hut 小屋
+gymnasium
+stadium
+playground
+flavor
 flood
 habit
-hide
-imagine
 fold
 grab
-favourite
-ice hockey
-ferry
-harbour
+favorite
+harbor 港口
 hairdresser 理发师 barber
 hairdryer
 guitarist
-fare
-favour
-film-maker
-fountain
-handkerchief
+fare 票价，费用
+ticket 门票
+favor
+fountain 喷泉
 herb
-hostel
-indefinite article
+hostel 旅社，小旅店
+hotel 酒店
 fuel
-hitchhike
 hire
 ghost
+goat
 frightened
-grateful
 frightening
+grateful
 fully
 heavily
 honestly
 icy 结冰的
-FALSE
 gentle
 indoors
 ingredient
-first-floor
-humid
+humid 潮湿的
+frequently
+familiar
+forbidden
+former 过去的
+gorgeous
+forever
+furthest
+lightning
+ironing
+murder
+murderer
+novel 小说
+knee
+lip
+interrupt
+millimeter
+length
+maximum
+kettle 水壶
+iron
+laboratory 实验室
+ladder
+loan
+metal
+jog 慢跑，轻击
+mend 修理
+lady
+moustache
+nephew
+niece
+leisure
+occasion
+invent
+invented
+invention
+jug 罐子
+lottery 彩票
+musician
+neighborhood
+nightlife
+lamb 羊羔
+liquid
+mystery
+mysterious
+injure
+injury
+intend
+involve
+irregular
+fashioned 过时的
+intelligent
+marvellous
+jealous 嫉妒的
+madam
+medium
+minimum
+keen
+intermedia 中间，媒介物
+intermediate 中间的
+juicy
+messy
+loose
+neat 整齐的
+luckily
+registration
+pronunciation
+relation
+relationship
+organization
+realize
+role
+patient
+phrase
+rhythm
+prayer
+questionnaire 问卷
+reply
+pronounce
+register
+pirate
+primary
+pepper
+recipe 食谱，配方
+receipt 收据
+region
+regional
+religion
+religional
+reign
+foreign
+foreigner
+pour
+routine
+president
+politics
+product
+route
+opportunity
+packet 包裹
+politician
+prescription 处方
+robot
+progress
+powder
+flour
+prison
+own
+recycle
+recycled
+reliable
+peaceful
+possibly
+owe
+pleasantly
+recently
+overnight
+permanent
+private
+scene
+series
+several
+serve
+service
+server
+search
+serious
+sever
+vary
+variety
+varieties
+soap
+sculpture
+statue
+status
+state
+statement
+shoulder
+tablet 药片
+skin
+shout
+signature
+secondary
+secondly
+strawberry
+takeaway 外卖
+sum
+tax
+scenery
+slip
+sunbathe
+spill 溢出
+stick
+shock
+technology
+souvenir
+sail
+sailor
+sailing
+solution
+salesman
+saleswoman
+selfish
+southeast
+southwest
+sew 缝
+soldier
+scared
+shocked
+terrified
+sense
+sensitive
+sensitively
+sensible
+shocking
+terribly
+sore 疼痛
+soar 猛增
+sour 酸
+strong
+thick
+society
+sociable
+social
+successful
+shiny
+sticky
+sudden
+suddenly
+southern
+spectacular
+traveller
+training
+wing 翼，翅膀
+trumpet
+throat
+thumb
+tongue
+tracksuit 运动服
+warn
+warm
+tin 罐头
+forecast
+turn
+wrap
+wake
+worry
+tournament
+yoga
+webcam 网络摄像头
+truck
+tunnel
+vehicle
+windscreen 挡风玻璃
+writer
+tube
+wheelchair
+zone
+toothpaste 牙膏
+variety
+weigh
+unwell
+unfit
+written
+through
+youth
+unlucky
+unnecessary
+typical
+urgently
+damn
+via

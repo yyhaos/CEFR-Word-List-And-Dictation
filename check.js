@@ -1,7 +1,7 @@
 const fs = require('fs');
 const readline = require('readline');
 
-const levelA2File = 'level-A2-word1.txt';
+const levelA2File = 'wrong-word.txt';
 const practiceFile = 'practice.txt';
 const outputFile = 'out.txt';
 
@@ -21,15 +21,32 @@ async function readLines(filePath) {
   return lines;
 }
 
+function removeChinese(text) {
+  // Define a regular expression to match Chinese characters.
+  const chineseRegex = /[\u4e00-\u9fa5]+/g;
+
+  // Replace all occurrences of Chinese characters with empty strings.
+  const englishText = text.replace(chineseRegex, "");
+
+  return englishText.replace(/[,;．。，；]/g, '');;
+}
 async function compareFiles() {
   try {
     const levelA2Words = await readLines(levelA2File);
     const practiceWords = await readLines(practiceFile);
     const outputLines = [];
 
-    levelA2Words.forEach((word, index) => {
-      if (!practiceWords.includes(word)) {
-        outputLines.push(`${word}`);
+    levelA2Words.forEach((sentence, index) => {
+      var noChineseSentence = removeChinese(sentence)
+      const words = noChineseSentence.split(' '); // 将句子拆分成单词
+      isWrong = false;
+      words.forEach((word) => {
+        if (!practiceWords.includes(word)) {
+          isWrong = true;
+        }
+      });
+      if(isWrong) {
+        outputLines.push(`${sentence}`);
       }
     });
 

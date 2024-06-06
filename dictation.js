@@ -19,11 +19,23 @@ const createTempDir = async () => {
     }
   }
 };
+function removeChinese(text) {
+  // Define a regular expression to match Chinese characters.
+  const chineseRegex = /[\u4e00-\u9fa5]+/g;
 
+  // Replace all occurrences of Chinese characters with empty strings.
+  const englishText = text.replace(chineseRegex, "");
+
+  return englishText;
+}
 const generateAudio = async (text, filename) => {
   const filePath = path.join(tempDir, filename);
+  text = removeChinese(text);
   const gtts = new gTTS(text);
-  await gtts.save(filePath);
+  result = await gtts.save(filePath);
+  // sleep
+  await new Promise(resolve => setTimeout(resolve, 100));
+  return result
 };
 
 const combineAudio = async (files, outputFile) => {
@@ -36,6 +48,7 @@ const combineAudio = async (files, outputFile) => {
     tempDir,
     'fileList.txt'
   )} -c copy ${outputFile}`;
+  console.log(command);
   await execAsync(command);
   await fs.unlink(path.join(tempDir, 'fileList.txt'));
 };
@@ -43,16 +56,18 @@ const combineAudio = async (files, outputFile) => {
 (async () => {
   try {
     await createTempDir();
-    file = "level-C2-word"
+    file = "wrong-word"
     const data = await fs.readFile(`${file}.txt`, 'utf-8');
     const words = data.split('\n').filter(word => word.trim() !== '');
     const audioFiles = [];
-
+    count = 1;
     for (const word of words) {
-      const safeWord = word.replace(/ /g, '_').replace(/\//g, '_').replace(/\?/g, '_').replace(/'/g, '_')
+      console.log(`${count}/${words.length}`)
+      count+=1;
+      const safeWord = word.replace(/ /g, '_').replace(/\//g, '_').replace(/\?/g, '_').replace(/'/g, '_').replace(/|/g, '_')
       const filename = `temp_${safeWord}.mp3`;
       await generateAudio(word, filename);
-      for (let i = 0; i < 3; i++) {
+      for (let i = 0; i < 4; i++) {
         audioFiles.push(filename);
       }
     }
